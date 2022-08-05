@@ -1,0 +1,15 @@
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.deps.json
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.runtimeconfig.json
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.dll
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.pdb
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.csproj.AssemblyReference.cache
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.AssemblyInfoInputs.cache
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.AssemblyInfo.cs
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.csproj.CoreCompileInputs.cache
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.dll
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/refint/Example001_Hello.dll
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.pdb
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.genruntimeconfig.cache
+/Users/polinakivokurtseva/Desktop/Examples/Example001_Hello/obj/Debug/net7.0/ref/Example001_Hello.dll
